@@ -39,11 +39,6 @@ to predict whether a student will Pass or Fail based on:
 - Correct predictions: 4
 - Test accuracy: 100%
 
-## Important Limitation
-This project uses a small synthetic dataset of 20 students.
-The reported accuracy is based on only 4 test samples.
-These results do not demonstrate real-world predictive performance.
-
 ## Project Files
 - Decision_Tree_Classification.ipynb
 - decision_tree_model.pkl
